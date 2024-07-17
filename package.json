@@ -1,7 +1,7 @@
 {
   "name": "react-projeto-battisti",
   "version": "0.1.0",
-  "homepage": "https://7cristovao.github.io/projeto-reactk",
+  "homepage": "https://7cristovao.github.io/projeto-react",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
