@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/projeto-reactk/static/css/main.20b95930.css",
-    "main.js": "/projeto-reactk/static/js/main.59672e89.js",
-    "static/media/savings.svg": "/projeto-reactk/static/media/savings.25a5174d3c0ce57522d68f3ba58b7407.svg",
-    "index.html": "/projeto-reactk/index.html",
-    "static/media/loading.svg": "/projeto-reactk/static/media/loading.5ff8599871e56a8a672f0861a01ef3bc.svg",
-    "main.20b95930.css.map": "/projeto-reactk/static/css/main.20b95930.css.map",
-    "main.59672e89.js.map": "/projeto-reactk/static/js/main.59672e89.js.map"
+    "main.css": "/projeto-react/static/css/main.20b95930.css",
+    "main.js": "/projeto-react/static/js/main.a468452b.js",
+    "static/media/savings.svg": "/projeto-react/static/media/savings.25a5174d3c0ce57522d68f3ba58b7407.svg",
+    "index.html": "/projeto-react/index.html",
+    "static/media/loading.svg": "/projeto-react/static/media/loading.5ff8599871e56a8a672f0861a01ef3bc.svg",
+    "main.20b95930.css.map": "/projeto-react/static/css/main.20b95930.css.map",
+    "main.a468452b.js.map": "/projeto-react/static/js/main.a468452b.js.map"
   },
   "entrypoints": [
     "static/css/main.20b95930.css",
-    "static/js/main.59672e89.js"
+    "static/js/main.a468452b.js"
   ]
 }
